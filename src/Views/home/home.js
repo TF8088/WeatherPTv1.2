@@ -1,11 +1,11 @@
 import React from 'react';
 import { View } from 'react-native';
-import { styles } from './styles';
+import styles from './home-styles';
 
-export function home() {
+export function Home() {
   return (
-    <View>
-      
+    <View style={styles.view}>
+
     </View>
   );
 }
