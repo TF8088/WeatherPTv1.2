@@ -1,6 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
-import styles from './settings-style';
+import styles from './settings-styles';
 
 export function Settings() {
   return (
